@@ -1,0 +1,107 @@
+h1{
+    background-color: darkgreen;
+    text-align: center;
+    font-style: initial;
+}
+body{
+    background-image: url(Imagenes/Background\ 2.jpg)
+}
+.letra{
+    font-style: italic;
+}
+.imagen{
+  width: px;
+  height: 400px;
+}
+h2{
+    background-color: rgba(8, 228, 8, 0.808);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    display: flexbox;
+}
+p{
+    background-color: white;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Cinematografia{
+    background-color: orangered;
+}
+.item {
+    display: inline-block;
+    padding: 15px;
+    transition: all 0.3s linear;
+  }
+  
+  .item a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .item:hover {
+    transform: scale(1.5, 1.5);
+    background-color: rgb(9, 46, 2); 
+  }
+  
+  .menu {
+    background-color: black;
+    padding: 15px;
+  }
+.tarjeta{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .juego{
+    border-radius: 30px 30px 0px 0px;
+    width: 200;
+    height: 200
+  }
+ .boton{
+   background-color: blue;
+   border-radius: 50px;
+   width: 400px;
+   color: white;
+   padding: 0px 50px 30px 50px;
+   text-align: center;
+ }
+.Personajes{
+  background-color: darkmagenta;
+}
+.jesse{
+  background-color: rgb(33, 216, 201);
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heisenberg{
+  background-color: rgb(192, 31, 31);
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fring{
+  background-color: greenyellow;
+  text-align: center;
+}
+.video{
+  background-color: hotpink;
+  text-align: center;
+}
+.hank{
+  background-color: rgb(170, 117, 18);
+  text-align: center;
+}
+.mike{
+  background-color: rgb(62, 121, 121);
+  text-align: center;
+}
+.Actuaciones{
+  background-color: rgb(121, 196, 9);
+}
+.skyler{
+  background-color: dimgrey;
+  text-align: center;
+}
